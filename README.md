@@ -1,4 +1,4 @@
-# My random notes - garbage dump
+# My random notes, or garbage dump
 
 #### Wayback Machine (archive.org) mirroring
     wget \
